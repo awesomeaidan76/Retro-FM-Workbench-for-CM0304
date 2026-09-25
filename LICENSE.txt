@@ -1,0 +1,3 @@
+Retro FM Database Workbench v0.4
+
+This project is provided for personal/educational database-conversion work. Do not distribute copyrighted game database files without the appropriate rights.
