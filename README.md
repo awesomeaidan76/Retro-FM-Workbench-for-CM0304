@@ -1,4 +1,4 @@
-# Retro FM Database Workbench v0.4
+# Retro FM Database Workbench v0.4 (Built for CM03/04 -> FM24/FM26)
 
 A CM03/04-first conversion workbench intended to become:
 
