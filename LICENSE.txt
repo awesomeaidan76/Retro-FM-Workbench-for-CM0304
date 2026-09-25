@@ -1,3 +1,43 @@
 Retro FM Database Workbench v0.4
 
-This project is provided for personal/educational database-conversion work. Do not distribute copyrighted game database files without the appropriate rights.
+
+Copyright © 2026 Aidan Perry. All rights reserved.
+
+Retro Database FM Workbench V0.4 was created by Aidan Perry.
+
+Permission is granted to use, copy, modify, and distribute this software for personal, educational, and non-commercial purposes, provided that the following conditions are met:
+
+* The original copyright notice and author attribution must remain intact.
+* Any modified or derivative version must clearly state that modifications have been made.
+* The software may not be represented as an official product of Aidan Perry without explicit permission.
+* Redistribution of the software, in whole or in part, must include this license.
+
+2. Commercial Use
+
+Commercial use, sale, licensing, or incorporation of Retro Database FM Workbench into a commercial product requires prior written permission from **Aidan Perry**.
+
+3. Database Content
+
+Retro Database FM Workbench is a tool for creating and working with historical football-management-game databases.
+
+Any football clubs, players, competitions, logos, names, statistics, or other third-party data contained in databases produced using the software may be subject to their respective owners' copyrights, trademarks, licenses, or other rights. This license does not grant rights to third-party material.
+
+4. No Warranty
+
+The software is provided "as is", without warranty of any kind, express or implied. Aidan Perry shall not be liable for any damages or losses arising from the use of the software.
+
+5. Attribution
+
+When publicly distributing a modified version, fork, database, tool, or project substantially based upon Retro Database FM Workbench, the original project should be credited as:
+
+"Retro Database FM Workbench V.04 — Created by Aidan Perry"
+
+6. Contact
+
+For permissions concerning commercial use, redistribution outside the terms of this license, or other licensing questions, contact the author:
+
+APdes1gns@yahoo.com
+
+---
+
+Copyright © 2026 Aidan Perry. All rights reserved.
